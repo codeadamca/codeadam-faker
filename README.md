@@ -1,4 +1,4 @@
-# codeadam-faker
+# Faker Splash Page
 
 A simple repo to store the faker.ca splash page. This is my sandbox for testing code online. The splash page can be viewed at:
 
