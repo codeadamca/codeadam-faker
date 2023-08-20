@@ -4,7 +4,7 @@ A simple repo to store the faker.ca splash page. This is my sandbox for testing 
 
 ![Faker](_readme/screenshot-faker.png)
 
-> The splash page can be viewed at:
+> The splash page can be viewed at:  
 > https://faker.ca
 
 ***
